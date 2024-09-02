@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: felixs-test
+  annotations:
+    github.com/project-slug: 'spotify-portal-demo/felixs-test'
+spec:
+  type: other
+  lifecycle: experimental
+  owner: eagles
